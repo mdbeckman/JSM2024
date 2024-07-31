@@ -1,5 +1,5 @@
-# 2024-UKCOTS
+# JSM 2024
 
-Materials presented during 2024 UK Conference on Teaching Statistics (Manchester, UK)
+Materials presented during 2024 Joint Statistical Meetings (Portland, OR)
 
-Here's a landing page for the talk: <https://mdbeckman.github.io/UKCOTS2024/>
+Here's a landing page for the talk and materials: <https://mdbeckman.github.io/JSM2024/>
